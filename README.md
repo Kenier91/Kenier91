@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Kenier Ramirez
 
-<!--
-**Kenier91/Kenier91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Bilingual Statistical & Data Analytics Professional
+Accomplished Data Analyst and Educator with **10+ years of experience** bridging quantitative research, advanced statistical modeling, and data-driven decision-making. I specialize in extracting patterns from large datasets, engineering automated data pipelines, and translating complex metrics into high-impact operational strategies across business and educational frameworks.
 
-Here are some ideas to get you started:
+💼 **Looking to connect?** Find me on [LinkedIn](https://www.linkedin.com/in/kenier-ramirez-9456a725a) or review my academic publications on [ORCID](https://orcid.org).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Core Competencies
+
+*   **Languages & Libraries:** Python (Scikit-Learn, TensorFlow, Keras, XGBoost), R, SQL
+*   **Data Engineering & Analytics:** Automated Data Pipelines, Data Wrangling, Validation, Advanced Optimization, A/B Testing, Hypothesis Testing
+*   **Business Intelligence (BI):** Power BI, Tableau, Excel (Advanced Automation)
+*   **Domain Expertise:** Predictive Risk Modeling, Predictive Analytics, Educational Analytics, MTSS (Multi-Tiered System of Supports), Response to Intervention (RTI) Frameworks
+
+---
+
+## 🔬 Featured Projects
+
+### 📊 [MTSS Early Warning System](https://github.com/Kenier91/MTSS-Early-Warning-System)
+An end-to-end data architecture and operational infrastructure framework for K-12 school districts.
+*   **Risk Stratification:** Built multi-domain classification logic evaluating 2,400+ students annually across academic, attendance, and behavioral domains.
+*   **Closed-Loop Architecture:** Connected data identification directly to action-oriented teacher workbooks and tracking sheets.
+*   **Decision Support:** Designed interactive Power BI dashboards paired with automated Python reporting workflows to improve data accessibility.
+
+### 🧠 [MTSS Predictive Analytics & Intervention Pipeline](https://github.com)
+An advanced machine learning pipeline developed to forecast state assessment outcomes (ELA, Math, Geometry, Algebra 1, Biology).
+*   Proactively identifies at-risk students using holistic performance profiles.
+*   Implements comparative testing utilizing **Cohen’s d effect size coefficients** to measure, validate, and scale the impact of target interventions.
+
+### 📈 [Business Survival & Site Selection Analytics](https://github.com)
+A validated, data-driven decision-support system analyzing location stability and business survival risk across San Diego County.
+
+---
+
+## 📝 Recent Publications
+
+*   **Ramirez, K. (2026).** *From Early Warning to Action: A Data-Driven Framework for Integrating Early Warning Systems and MTSS in K–12 Education.* **EdArXiv Preprints.** [Read the full preprint here](https://osf.io)
+
+---
+
+## 🎓 Education & Credentials
+
+*   **M.S. in Data Analytics** | Western Governors University, Salt Lake City, UT (2026)
+*   **B.S. in Mathematics** | Central University "Marta Abreu" of Las Villas, Cuba (2014)
+*   **Professional Certifications:**
+    *   Florida Professional Educator Certificate (2024)
+    *   Data Analytics Professional Certificate (2025)
+    *   Data Operations Certificate (2025)
+    *   Data Science Professional Certificate (2025)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://vercel.app" alt="Kenier's GitHub Stats" />
+  <img src="https://vercel.app" alt="Top Languages" />
+</p>
+
+📬 **Let's Collaborate:** If you are interested in data architecture, predictive modeling, or learning analytics, feel free to open an issue or connect on LinkedIn!
+
