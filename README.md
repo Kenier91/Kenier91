@@ -24,12 +24,12 @@ An end-to-end data architecture and operational infrastructure framework for K-1
 *   **Closed-Loop Architecture:** Connected data identification directly to action-oriented teacher workbooks and tracking sheets.
 *   **Decision Support:** Designed interactive Power BI dashboards paired with automated Python reporting workflows to improve data accessibility.
 
-### 🧠 [MTSS Predictive Analytics & Intervention Pipeline](https://github.com)
+### 🧠 [MTSS Predictive Analytics & Intervention Pipeline](https://github.com/Kenier91/MTSS-Predictive-Analytics-Teacher-Intervention-Tool)
 An advanced machine learning pipeline developed to forecast state assessment outcomes (ELA, Math, Geometry, Algebra 1, Biology).
 *   Proactively identifies at-risk students using holistic performance profiles.
 *   Implements comparative testing utilizing **Cohen’s d effect size coefficients** to measure, validate, and scale the impact of target interventions.
 
-### 📈 [Business Survival & Site Selection Analytics](https://github.com)
+### 📈 [Business Survival & Site Selection Analytics](https://github.com/Kenier91/Business-Survival-Site-Selection-Analytics-for-San-Diego-County)
 A validated, data-driven decision-support system analyzing location stability and business survival risk across San Diego County.
 
 ---
