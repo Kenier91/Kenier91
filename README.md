@@ -10,9 +10,9 @@ Accomplished Data Analyst and Educator with **10+ years of experience** bridging
 ## 🛠️ Tech Stack & Core Competencies
 
 *   **Languages & Libraries:** Python (Scikit-Learn, TensorFlow, Keras, XGBoost), R, SQL
-*   **Data Engineering & Analytics:** Automated Data Pipelines, Data Wrangling, Validation, Advanced Optimization, A/B Testing, Hypothesis Testing
+*   **Data Engineering & Analytics:** Automated Data Pipelines, Data Wrangling, Validation, Advanced Optimization, A/B Testing, Hypothesis Testing, Experimental Design 
 *   **Business Intelligence (BI):** Power BI, Tableau, Excel (Advanced Automation)
-*   **Domain Expertise:** Predictive Risk Modeling, Predictive Analytics, Educational Analytics, MTSS (Multi-Tiered System of Supports), Response to Intervention (RTI) Frameworks
+*   **Domain Expertise:** Predictive Risk Modeling, Predictive Analytics, Spatial Analytics, Educational Analytics, MTSS (Multi-Tiered System of Supports), Response to Intervention (RTI) Frameworks
 
 ---
 
