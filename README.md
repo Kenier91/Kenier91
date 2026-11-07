@@ -3,7 +3,7 @@
 ### 📊 Bilingual Statistical & Data Analytics Professional
 Accomplished Data Analyst and Educator with **10+ years of experience** bridging quantitative research, advanced statistical modeling, and data-driven decision-making. I specialize in extracting patterns from large datasets, engineering automated data pipelines, and translating complex metrics into high-impact operational strategies across business and educational frameworks.
 
-💼 **Looking to connect?** Find me on [LinkedIn](https://www.linkedin.com/in/kenier-ramirez-9456a725a) or review my academic publications on [ORCID](https://orcid.org).
+💼 **Looking to connect?** Find me on [LinkedIn](https://www.linkedin.com/in/kenier-ramirez-9456a725a) or review my academic publications on [ORCID](https://orcid.org/0009-0001-9900-2473).
 
 ---
 
@@ -36,7 +36,7 @@ A validated, data-driven decision-support system analyzing location stability an
 
 ## 📝 Recent Publications
 
-*   **Ramirez, K. (2026).** *From Early Warning to Action: A Data-Driven Framework for Integrating Early Warning Systems and MTSS in K–12 Education.* **EdArXiv Preprints.** [Read the full preprint here](https://osf.io)
+*   **Ramirez, K. (2026).** *From Early Warning to Action: A Data-Driven Framework for Integrating Early Warning Systems and MTSS in K–12 Education.* **EdArXiv Preprints.** [Read the full preprint here](https://osf.io/preprints/edarxiv/3bpwm_v1)
 
 ---
 
@@ -52,12 +52,6 @@ A validated, data-driven decision-support system analyzing location stability an
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="Kenier's GitHub Stats" />
-  <img src="https://vercel.app" alt="Top Languages" />
-</p>
-
-📬 **Let's Collaborate:** If you are interested in data architecture, predictive modeling, or learning analytics, feel free to open an issue or connect on LinkedIn!
+## 📬 Let's Collaborate
+If you are interested in data architecture, predictive modeling, or learning analytics, feel free to open an issue or connect on LinkedIn!
 
